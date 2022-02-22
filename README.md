@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KukJinKim0211
 - 👀 I’m interested in heung-min Son!!
 - 🌱 I’m currently learning Web FrontEnd (HTML5, CSS, JavaScript...)
+- 🌱 I'm currently learning Web BackEnd (Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
