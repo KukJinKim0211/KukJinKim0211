@@ -27,3 +27,6 @@
 ##### 😀 사용해 보았어요 😀
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-00599C?style=flat&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> 
 -----
+
+포트폴리오 링크
+https://learned-rook-9ce.notion.site/e1469bb94a224ecf874d8bd084997b56?pvs=4
