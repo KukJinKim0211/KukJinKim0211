@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KukJinKim%20GitHub&fontSize=70)  
- ## 🌱 프론트엔드 개발자를 꿈꾸는 김국진입니다. 🌱
+ ## 🌱 프론트엔드 3년차 개발자 김국진입니다. 🌱
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKukJinKim0211&count_bg=%239AE77F&title_bg=%235FC056&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  --------
  ### 🎞 Career 🎞
@@ -7,7 +7,9 @@
  
  ##### 2017 ~ 2021 포스코 관련 프로젝트 개발 회사 근무
  
- ##### 2022 ~ SSAFE 7th
+ ##### 2022 ~ 2022 SSAFE 7th
+
+ ##### 
  -----
  ### 📃 Info 📃
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KukjinKim0211&show_icons=true&theme=radical)
