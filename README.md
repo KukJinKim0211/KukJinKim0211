@@ -9,7 +9,7 @@
  
  ##### 2022 ~ 2022 SSAFE 7th
 
- ##### 
+ ##### 2023 ~ 엔키아 프론트엔드 개발자
  -----
  ### 📃 Info 📃
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KukjinKim0211&show_icons=true&theme=radical)
